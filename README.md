@@ -18,6 +18,7 @@ FightingGame/
 │   ├── game.js
 ├── script.js      # Node.js + Express.js + Socket.IO server
 ├── package.json
+```
 🚀 How to Run
 1️⃣ Install Dependencies
 bash
