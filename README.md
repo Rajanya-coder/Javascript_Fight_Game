@@ -9,7 +9,9 @@ Real-time synchronized player movements are planned for future updates.
 ---
 
 
-🚀 How to Run
+#🚀 How to Run
+
+
 1️⃣ Install Dependencies
 
 npm install
