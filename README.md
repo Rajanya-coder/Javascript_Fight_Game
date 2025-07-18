@@ -23,7 +23,9 @@ By default, the game runs at http://localhost:3000.
 Open in two browser windows or use Chrome Remote to simulate multiplayer.
 
 ---
-🔭 Planned Improvements
+🔭 **Planned Improvements**
+
+
 ✅ Implement full real-time player movement using Socket.IO
 
 ✅ Add player authentication
@@ -34,13 +36,17 @@ Open in two browser windows or use Chrome Remote to simulate multiplayer.
 
 ---
 
-📝 How to Contribute
+📝 **How to Contribute**
+
+
 Feel free to fork this repo and submit pull requests.
 Ideas, bug reports, and suggestions are always welcome!
 
 ---
 
-📧 Contact
+📧 **Contact**
+
+
 Author: Rajanya
 GitHub: Rajanya-coder
 
